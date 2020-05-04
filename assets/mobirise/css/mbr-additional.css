@@ -1,20 +1,48 @@
-#dropdown-menu-1 .hide-buttons [data-button] {
-  display: none !important;
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+#menu-j .navbar-toggler {
+  color: #ffffff;
 }
-#dropdown-menu-1 .nav .link,
-#dropdown-menu-1 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
+#header1-2 H1 {
+  color: #ffffff;
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+  font-size: 100px;
 }
-#dropdown-menu-1 .navbar,
-#dropdown-menu-1 .dropdown-menu {
-  background: #ffffff;
+#header1-2 P {
+  color: #fbfbfb;
+  font-size: 20px;
+  text-align: center;
 }
-#dropdown-menu-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-1 .dropdown-menu a:hover,
-#dropdown-menu-1 .dropdown-menu a:focus {
-  background: #f5f5f5;
+#content1-7 P {
+  color: #0c5695;
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
 }
-#dropdown-menu-1 .navbar-toggler {
-  color: #000000;
+#slider-3 H2 {
+  text-align: left;
+  color: #831a08;
+}
+#slider-3 P {
+  text-align: left;
+  color: #ffffff;
+}
+#content5-5 DIV {
+  text-align: left;
+  color: #ffffff;
+}
+#content5-5 .mbr-section-title {
+  text-align: left;
+}
+#instagram-feed-block-a .inst__title {
+  color: #f1c050;
+}
+#form2-e .mbr-section-title {
+  color: #ffffff;
+}
+#social-buttons2-i .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
 }
